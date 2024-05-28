@@ -34,10 +34,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to your branch: `git push origin feature-name`
 5. Submit a pull request with your changes
 
-## License
-
-[Include license information here...]
-
-## Acknowledgements
-
-[Include any acknowledgements or credits here...]
